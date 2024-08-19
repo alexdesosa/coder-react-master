@@ -1,0 +1,14 @@
+#titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffffff;
+}
+
+p {
+  color: #ffffffff;
+}
+
+* {
+  color: #ffffffff;
+}

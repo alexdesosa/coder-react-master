@@ -1,0 +1,39 @@
+*{
+    background-color: #000000;
+}
+
+.navbarContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 2rem;
+}
+
+.navbarLink {
+    font-size: large;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.navbarLink:hover{
+    cursor: pointer;
+    color: #575757;
+    text-decoration: underline;
+}
+
+#logo{
+    font-size: large;
+    color: #ffffff;
+}
+
+
+#cart{
+    color: #ffffff;
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 50%; /* or another appropriate width */
+}
